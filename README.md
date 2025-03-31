@@ -36,8 +36,8 @@
 
 1. Клонируйте репозиторий проекта:
 ```bash
-git clone https://github.com/zhenia1881/Sales_data_pipeline.git
-cd sales_data_pipeline
+git clone https://github.com/zhenia1881/Sales_data_ETL_pipeline.git
+cd Sales_data_pipeline
 ```
 2. Запустите все сервисы в фоновом режиме:
 ```bash
